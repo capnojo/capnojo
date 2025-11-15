@@ -1,16 +1,17 @@
-## Hi there 👋
+# Владислав
 
-<!--
-**capnojo/capnojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst**
 
-Here are some ideas to get you started:
+## Навыки
+- Программирование: Python
+- Анализ данных: pandas, NumPy, SciPy, StatsModels
+- Визуализация: Matplotlib, Seaborn
+- Обработка больших данных: PySpark
+- Базы данных: PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Образование
+- Курс "Data Analyst расширенный", Яндекс Практикум
+  
+## Контакты
+Почта: vladislav-mironov23@yandex.ru   
+[Telegram] (https://t.me/capnojo)
